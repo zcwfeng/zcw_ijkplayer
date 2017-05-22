@@ -1,7 +1,7 @@
 # zcw_ijkplayer
 ijkplayer：android无需编译，直接可以运行的播放器源代码
 
-# 站在巨人的肩膀上，不再重复制造轮子（下面是我在ijkplayer上面拉取过来进行了更改，如有问题，请联系我，zcwfeng@126.com 不要发垃圾邮件）
+# 站在巨人的肩膀上，不再重复制造轮子（下面是我在ijkplayer上面拉取过来进行了更改，如有问题，isuue 里面提出来，我不定时过来看）
 
 # 注意点
 * 如果你想重新编译，首先要将ijkplayer 目录给予执行的权限 chmod -R 777 android 
