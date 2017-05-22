@@ -10,12 +10,6 @@ ijkplayer：android无需编译，直接可以运行的播放器源代码
 * 只希望越走越远，加油，Fighting！
 
 ------------------------------------------------
----------------- 忧伤的分割线 --------------------------------
-
-------------------------------------------------
-
-
-
 
 # ijkplayer [![Build Status](https://travis-ci.org/Bilibili/ijkplayer.svg?branch=master)](https://travis-ci.org/Bilibili/ijkplayer)
 
